@@ -97,7 +97,6 @@ python Convertidor.py
 ## 🔧 CREAR ARCHIVO EJECUTABLE
 
 Para desarrolladores que quieran crear el .exe:
-
 ```bash
 # Instalar dependencias
 pip install -r requirements.txt
