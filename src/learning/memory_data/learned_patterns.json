@@ -1,0 +1,104 @@
+{
+  "Fecha y Hora Consulta": {
+    "common_patterns": [],
+    "regex_patterns": [
+      "\\d{4}/\\d{2}/\\d{2}",
+      "\\d{2}/\\d{2}/\\d{4}"
+    ],
+    "context_patterns": [
+      "Consultado por: DELAGRO SAS 2024/07/22 2.38 PM"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Tipo Documento": {
+    "common_patterns": [],
+    "regex_patterns": [],
+    "context_patterns": [
+      "Tipo Documento C.C. Número Documento 93471848 Estado Documento Vigente Lugar Expedición VENADILLO Fecha Expedición 27/01/1993"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Número Documento": {
+    "common_patterns": [],
+    "regex_patterns": [],
+    "context_patterns": [
+      "Tipo Documento C.C. Número Documento 93471848 Estado Documento Vigente Lugar Expedición VENADILLO Fecha Expedición 27/01/1993"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Estado Documento": {
+    "common_patterns": [],
+    "regex_patterns": [],
+    "context_patterns": [
+      "Tipo Documento C.C. Número Documento 93471848 Estado Documento Vigente Lugar Expedición VENADILLO Fecha Expedición 27/01/1993"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Lugar Expedición": {
+    "common_patterns": [],
+    "regex_patterns": [],
+    "context_patterns": [
+      "Tipo Documento C.C. Número Documento 93471848 Estado Documento Vigente Lugar Expedición VENADILLO Fecha Expedición 27/01/1993"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Fecha Expedición": {
+    "common_patterns": [],
+    "regex_patterns": [
+      "\\d{4}/\\d{2}/\\d{2}",
+      "\\d{2}/\\d{2}/\\d{4}"
+    ],
+    "context_patterns": [
+      "Tipo Documento C.C. Número Documento 93471848 Estado Documento Vigente Lugar Expedición VENADILLO Fecha Expedición 27/01/1993"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Nombre": {
+    "common_patterns": [],
+    "regex_patterns": [
+      "[A-ZÁÉÍÓÚÑ\\s]+"
+    ],
+    "context_patterns": [
+      "Nombre BELTRAN ILBER Rango Edad 46-55 Género Masculino Tiene RUT? SI Antiguedad Ubicación 172 Meses Urbana"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Rango Edad": {
+    "common_patterns": [],
+    "regex_patterns": [
+      "\\d+-\\d+"
+    ],
+    "context_patterns": [
+      "Nombre BELTRAN ILBER Rango Edad 46-55 Género Masculino Tiene RUT? SI Antiguedad Ubicación 172 Meses Urbana"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Género": {
+    "common_patterns": [],
+    "regex_patterns": [],
+    "context_patterns": [
+      "Nombre BELTRAN ILBER Rango Edad 46-55 Género Masculino Tiene RUT? SI Antiguedad Ubicación 172 Meses Urbana"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  },
+  "Antigüedad Ubicación": {
+    "common_patterns": [],
+    "regex_patterns": [
+      "\\d+-\\d+"
+    ],
+    "context_patterns": [
+      "Nombre BELTRAN ILBER Rango Edad 46-55 Género Masculino Tiene RUT? SI Antiguedad Ubicación 172 Meses Urbana"
+    ],
+    "success_count": 1,
+    "total_count": 1
+  }
+}

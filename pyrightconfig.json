@@ -1,0 +1,27 @@
+{
+    "include": [
+        "src",
+        "scripts",
+        "Convertidor.py",
+        "setup_paths.py"
+    ],
+    "exclude": [
+        "legacy",
+        "build",
+        "dist",
+        "__pycache__",
+        ".venv",
+        ".git"
+    ],
+    "extraPaths": [
+        "./src",
+        "./scripts"
+    ],
+    "reportMissingImports": false,
+    "reportGeneralTypeIssues": false,
+    "reportOptionalMemberAccess": false,
+    "reportPrivateImportUsage": false,
+    "reportUnknownMemberType": false,
+    "reportUnknownVariableType": false,
+    "typeCheckingMode": "off"
+}

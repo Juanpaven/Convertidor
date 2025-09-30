@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "convertidor-datacredito"
+version = "2.0.0"
+description = "Sistema modular para procesamiento de reportes DataCrédito"
+authors = [{name = "Juan Avendaño"}]
+dependencies = [
+    "pdfplumber>=0.9.0",
+    "pandas>=1.5.0",
+    "openpyxl>=3.1.0",
+    "Pillow>=9.0.0"
+]
+
+[tool.setuptools]
+packages = ["src", "src.config", "src.extractors", "src.processors", "src.utils"]
+
+[tool.setuptools.package-dir]
+"" = "."
+"src" = "src"
+
+[tool.pylint.MASTER]
+init-hook = "import sys; sys.path.extend(['./src', '.'])"
+
+[tool.mypy]
+mypy_path = ["./src", "."]
+namespace_packages = true
+explicit_package_bases = true

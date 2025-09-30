@@ -1,0 +1,9 @@
+{
+    "exclude": [
+        "Convertidor.py"
+    ],
+    "reportMissingImports": false,
+    "reportGeneralTypeIssues": false,
+    "reportOptionalMemberAccess": false,
+    "reportPrivateImportUsage": false
+}

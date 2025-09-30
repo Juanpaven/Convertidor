@@ -1,0 +1,508 @@
+DataCrédito – Consultas en la Web
+Consultado por: DELAGRO SAS 2025/08/26 4.01 PM
+Yurany Varon oviedo - 38360904
+INFORMACIÓN BÁSICA 1ZS2855
+Tipo Documento C.C. Número Documento 14106202 Estado Documento Vigente Lugar Expedición SAN LUIS Fecha Expedición 22/06/1995
+Nombre MONTAÑA MIRANDA ELKIN Rango Edad 46-55 Género Masculino Tiene RUT? - Antiguedad Ubicación 189 Meses -
+ARTICULO 14 LEY 1266 DE 2008 1ZS2855
+"Se presenta reporte negativo cuando la(s) persona(s) naturales efectivamente se encuentran en mora en sus cuotas u obligaciones. Se presenta reporte positivo cuando la(s) persona(s)
+naturales están al día en sus obligaciones"
+RESUMEN 1ZS2855
+Perfil General
+Total como Codeudor y
+Sectores Sector Financiero Sector Cooperativo Sector Real Sector Telcos Total Sectores Total como Principal
+Otros
+Créditos Vigentes 5 0 1 0 6 6 0
+Créditos Cerrados 33 0 3 1 37 31 6
+Créditos Reestructurados 0 0 0 0 0 0 0
+Créditos Refinanciados 0 0 0 0 0 0 0
+Consultas en los ult. 6 Meses 1 0 3 0 4 - -
+Desacuerdos Vigentes a la Fecha 0 0 0 0 0 0 0
+Antigüedad desde 2001-01-09 - 2010-09-06 2022-11-23 - - -
+Tendencia de endeudamiento
+Saldos y Moras Jul 25 Jun 25 May 25 Abr 25 Mar 25 Feb 25 Ene 25 Dic 24 Nov 24 Oct 24 Sep 24 Ago 24
+Saldo Deuda Total en Mora (en miles) 133 9,486 9,463 28,658 28,277 9,377 9,377 9,377 9,377 9,377 9,377 9,377
+Saldo Deuda Total (en miles) 57,399 66,548 66,329 85,539 85,288 98,676 100,791 102,368 101,471 100,489 101,019 81,302
+Moras máx Sector Financiero 4 4 3 2 1 N N N N N N N
+Moras máx Sector Real 4 6 6 6 6 6 6 6 6 6 6
+Total Moras Máximas 4 4 6 6 6 6 6 6 6 6 6 6
+Núm créditos con mora =30 0 0 0 0 2 0 0 0 0 0 0 0
+Núm créditos con mora >= 60 1 2 2 3 1 1 1 1 1 1 1 1
+Endeudamiento Actual 1ZS2855
+Carteras Calidad Núm Estado Actual Calf Vlr o cupo inicial Saldo Actual Saldo en Mora Valor Cuota % Part % Deuda
+Sector Financiero
+Cartera bancaria Principal 1 Al día - 50,000 18,475 0 11,452 27.7% 37.0%
+Cartera Microcrédito Principal 1 Al día - 40,000 37,647 0 4,553 56.4% 94.1%
+Al día - 0 0 0 0 - -
+Cartera Sobregiro Principal 3 Al día - 0 0 0 0 - -
+Esta M 120 RM 120 - 0 1,277 133 0 1.9% -
+Total Sector Financiero 90,000 57,399 133 16,005 86.0% 63.8%
+Sector Real
+Cartera agroindustria Principal 1 Esta en mora 120 - 9,377 9,377 9,377 500 14.0% 100.0%
+Total Sector Real 9,377 9,377 9,377 500 14.0% 100.0%
+TOTAL 99,377 66,776 9,510 16,505 100.0% 67.2%
+HÁBITO DE PAGO DE OBLIGACIONES ABIERTAS / VIGENTES 1ZS2855
+Sector Financiero
+Tipo Num Cta 9 Estado de la Fecha Fecha Fecha Mora
+Entidad Informante Calf Adjetivo-fecha 47 meses
+Cuenta dígitos Obligación Actualización Apertura Vencimiento Máxima
+[NNNN-NNNNNNN][NNNNN-NNNNNN]
++ Al día
+BCO DAVIVIENDA LIBRE INVERS. CAB 600269117 - 20250731 20200117 20270117 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+Orig: Normal
+Desacuerdo con la Estado del Marca/ Tipo Vlr o cupo Saldo Actual Saldo en Mora Valor Cuota Fecha Limite Fecha No.Cheq % Oficina/
+Perm. Cuotas/M/Vigencia
+inform. Titular Clase Garantía inicial (Miles $) (Miles $) (Miles $) Pago del Pago Devueltos deuda Deudor
+MURILLO TORO /
+Normal ADMIS 50,000 18,475 0 11,452 - - - - 6 de 7/A/D 36.0%
+Principal
+Tipo Num Cta 9 Estado de la Fecha Fecha Fecha Mora
+Entidad Informante Calf Adjetivo-fecha 47 meses
+Cuenta dígitos Obligación Actualización Apertura Vencimiento Máxima
+[NNNNNNNNNNNN][NNNNNN------]
++ Al día
+BANCO AGRARIO C MICROCREDITO MCR 530181381 - 20250731 20240122 20330122 [------------][-----------N]
+Orig: Normal
+Desacuerdo con la Estado del Marca/ Tipo Vlr o cupo Saldo Actual Saldo en Mora Valor Cuota Fecha Limite Fecha No.Cheq % Oficina/
+Perm. Cuotas/M/Vigencia
+inform. Titular Clase Garantía inicial (Miles $) (Miles $) (Miles $) Pago del Pago Devueltos deuda Deudor
+SAN LUIS (TOLIMA) /
+Otra FAG 40,000 37,647 0 4,553 - - - - 1 de 17/S/- 94.0%
+Principal
+Tipo Num Cta 9 Estado de la Fecha Fecha Fecha Mora
+Entidad Informante Calf Adjetivo-fecha 47 meses
+Cuenta dígitos Obligación Actualización Apertura Vencimiento Máxima
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
++ Al día
+BANCO AGRARIO CART SOBREGIRO SBG 800000627 - 20250731 20170831 20170906 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+Orig: Normal
+DELAGRO SAS 2025/08/26 16:01:48 Página 1 de 6
+Desacuerdo con la Estado del Marca/ Tipo Vlr o cupo Saldo Actual Saldo en Mora Valor Cuota Fecha Limite Fecha No.Cheq % Oficina/
+Perm. Cuotas/M/Vigencia
+inform. Titular Clase Garantía inicial (Miles $) (Miles $) (Miles $) Pago del Pago Devueltos deuda Deudor
+VALLE DE SAN JUAN /
+Normal OTR GAR 0 0 0 0 - - - - -/V/- -
+Principal
+Tipo Num Cta 9 Estado de la Fecha Fecha Fecha Mora
+Entidad Informante Calf Adjetivo-fecha 47 meses
+Cuenta dígitos Obligación Actualización Apertura Vencimiento Máxima
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
++ Al día
+BANCO AGRARIO CART SOBREGIRO SBG 800000627 - 20250731 20170608 20180601 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+Orig: Normal
+Desacuerdo con la Estado del Marca/ Tipo Vlr o cupo Saldo Actual Saldo en Mora Valor Cuota Fecha Limite Fecha No.Cheq % Oficina/
+Perm. Cuotas/M/Vigencia
+inform. Titular Clase Garantía inicial (Miles $) (Miles $) (Miles $) Pago del Pago Devueltos deuda Deudor
+VALLE DE SAN JUAN /
+Normal OTR GAR 0 0 0 0 - - - - -/V/- -
+Principal
+Tipo Num Cta 9 Estado de la Fecha Fecha Fecha Mora
+Entidad Informante Calf Adjetivo-fecha 47 meses
+Cuenta dígitos Obligación Actualización Apertura Vencimiento Máxima
+[4321NNNNNNN4][321NN-------]
+- Esta M 120 RM 120 Cuenta en cobrador-
+DAVIVIENDA SOBREGIROS SBG 760009992 - 20250731 20121206 20250210 >120 [-----NNNNNNN][NNNNNNNNNNNN]
+Orig: Normal 30/06/2025
+Desacuerdo con la Estado del Marca/ Tipo Vlr o cupo Saldo Actual Saldo en Mora Valor Cuota Fecha Limite Fecha No.Cheq % Oficina/
+Perm. Cuotas/M/Vigencia
+inform. Titular Clase Garantía inicial (Miles $) (Miles $) (Miles $) Pago del Pago Devueltos deuda Deudor
+MURILLO TORO /
+Normal SIN GAR - 1,277 133 - 20250731 - - - -/V/D -
+Principal
+Sector Real
+Tipo Num Cta 9 Estado de la Fecha Fecha Fecha Mora
+Entidad Informante Calf Adjetivo-fecha 47 meses
+Cuenta dígitos Obligación Actualización Apertura Vencimiento Máxima
+[666666666666][66654-------]
+- Esta en mora 120
+PRECISAGRO S.A.S. AGR SE0710041 - 20250630 20220526 20230831 >180 [------------][-----------N]
+Orig: Normal
+Desacuerdo con la Estado del Marca/ Tipo Vlr o cupo Saldo Actual Saldo en Mora Valor Cuota Fecha Limite Fecha No.Cheq % Oficina/
+Perm. Cuotas/M/Vigencia
+inform. Titular Clase Garantía inicial (Miles $) (Miles $) (Miles $) Pago del Pago Devueltos deuda Deudor
+Normal ADMIS 9,377 9,377 9,377 500 20230831 20230831 - - -/S/D-37 100.0% BOGOTA / Principal
+HÁBITO DE PAGO DE OBLIGACIONES CERRADAS / INACTIVAS 1ZS2855
+Sector Financiero
+Tipo Estado de la Adjetivo- Num Cta 9 Fecha Vlr o cupo Ciudad/ Oficina Desacuerdo con la
+Entidad Informante Calf Fecha Cierre 47 meses
+Cuenta Obligación fecha digitos Apertura inicial Fecha /Deudor inform.
+BANCAMIA AHO Inactiva A 747001001 20220609 20250731 - - IBAGUE / -
+BANCOLOMBIA AHO Inactiva A 705949231 20010109 20250731 - - EL GUAMO / -
+BCO AGRARIO AHO Saldada A 530014054 20031020 20181231 - - SAN LUIS (TOLIM / -
+BCO DE BOGOTA AHO Inactiva - 836185801 20190725 20250731 - - 0370 IBAGUE / -
+[-NNN---NNNNN][NN----------]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 040700808 20050401 20060630 - 20060430 [------------][-----------N]
+Orig: Normal Codeudor
+[-NN-NN-NN-NN][-NNNNN------]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 040799581 20060601 20071231 - 20071231 [------------][-----------N]
+Orig: Normal Codeudor
+[NNNNNNNNNNNN][------------]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 070080464 20040501 20050531 - 20050531 [------------][-----------N]
+Orig: Normal Principal
+[--NNNNNNNNNN][NNN---------]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 070080621 20040901 20051231 - 20050930 [------------][-----------N]
+Orig: Normal Principal
+[-NNNNNNNNNNN][NNNNNNNNNNNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 070080918 20050801 20071031 - 20070831 [------------][-----------N]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNNNNN-]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 070082965 20090903 20121031 - 20120903 [NNNNNNNNNNNN][N----------N]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 070083379 20100903 20130930 - 20130903 [NNNNNNNNNNNN][-----------N]
+Orig: Normal Principal
+[NNNNNNN--NNN][N--NNNNNNNNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 070084315 20120503 20150331 - 20170503 [NNNNNNNNNN--][-----------N]
+Orig: Normal Principal
+[-NNNN--NNNNN][NNNNNNNNNNNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 070084764 20121226 20150228 - 20151226 [NN----------][-----------N]
+Orig: Normal Principal
+[NNNNNN------][------------]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 070086175 20161019 20170430 - 20170419 [------------][-----------N]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 079958159 20060613 20100630 - 20100613 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 407008646 20170815 20190831 - 20190815 [------------][-----------N]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNN-NNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 781000887 20050901 20080831 - 20081031 [NNNNNNNNNN--][-----------N]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNN-NNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 781000891 20050901 20080831 - 20081031 [NNNNNNNNNN--][-----------N]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNN-NNN]
++ Pago Vol NO INFORMO /
+BANCOLOMBIA CAB - 781000897 20050901 20080831 - 20081130 [NNNNNNNNNN--][-----------N]
+Orig: Normal Principal
+[-N----------][------------]
++ Pago Vol NO INFORMO /
+BCO AGRARIO CAB - 000037581 20030201 20031031 - 20030831 [------------][-----------N]
+Orig: Normal Codeudor
+[NNNNNNNNN-NN][NN--NNNNNNNN]
++ Pago Vol NO INFORMO /
+BCO AGRARIO CAB - 530053228 20031205 20091124 - 20091206 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+Orig: Normal Principal
+DELAGRO SAS 2025/08/26 16:01:48 Página 2 de 6
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
++ Pago Vol SAN LUIS (TOLIMA) /
+BCO AGRARIO CAB - 530151637 20200617 20230630 40,000 20230617 [NNNNNNNNNNNN][-----------N]
+Orig: Normal Principal
+[NNNNNN------][------------]
++ Pago Vol SAN LUIS (TOLIMA) /
+BCO AGRARIO CAB - 530163495 20211027 20220429 40,000 20220627 [------------][-----------N]
+Orig: Normal Principal
+[-NNNNNNNNN--][------------]
++ Pago Vol SAN LUIS (TOLIMA) /
+BCO AGRARIO CAB - 530169735 20221005 20230815 50,000 20230605 [------------][-----------N]
+Orig: Normal Principal
+[------------][------------]
++ Pago Vol SAN LUIS (TOLIMA) /
+BCO AGRARIO CAB - 530189671 20241204 20250315 14 20250204 [------------][-----------N]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
++ Pago Vol SAN LUIS (TOLIMA) /
+BCO AGRARIO CAB - 800104535 20170516 20240131 15,000 20240516 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+Orig: Normal Principal
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
+BCO DAVIVIENDA LIBRE + Pago Vol MURILLO TORO /
+CAB - 700100709 20150713 20200630 50,000 20200713 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+INVERS. Orig: Normal Principal
+BANCOLOMBIA CCB Saldada A 718157525 20040622 20230430 - - EL GUAMO / -
+VALLE DE SAN JUAN
+BCO AGRARIO CCB Inactiva A 800000627 20170419 20250731 - -
+/ -
+BCO AGRARIO CCB Saldada B 530001093 20190809 20250228 - - SAN LUIS (TOLIMA) / -
+BCO DAVIVIENDA CCB Inactiva A 760009992 20121205 20250731 - - MURILLO TORO / -
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
+BANCAMIA + Pago Vol
+MCR - 723329013 20220609 20240701 - 20240609 IBAGUE / Principal [N-----------][-----------N]
+MICROCREDITO Orig: Normal
+[NNNNNNNN----][------------]
+BANCO AGRARIO C + Pago Vol SAN LUIS (TOLIMA) /
+MCR - 653014762 20190919 20200529 20,000 20200419 [------------][-----------N]
+MICROCREDITO Orig: Normal Principal
+[-NNNNNNNN---][------------]
+BANCO AGRARIO C + Pago Vol NO INFORMO /
+MCR - 800068203 20110623 20120322 - 20120123 [------------][-----------N]
+MICROCREDITO Orig: Normal Codeudor
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
+BANCO AGRARIO CART + Pago Vol SAN LUIS (TOLIMA) /
+SBG - 530001093 20200430 20250228 62 20250204 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+SOBREGIRO Orig: Normal Principal
+[-NNNNNNNNNNN][NNNNNNNNNNNN]
+BANCO AGRARIO CART + Pago Vol SAN LUIS (TOLIMA) /
+SBG - 530001093 20190930 20250228 5,000 20250203 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+SOBREGIRO Orig: Normal Principal
++ Cancelada [N-----NN-N--][------------]
+BANCOLOMBIA AME. NO INFORMO /
+TDC Vol Orig: - 037781673 20050401 20060731 - 20080430 [------------][-----------N]
+EXP. Principal
+Normal
++ Cancelada [NN--NN-N----][------------]
+NO INFORMO /
+BANCOLOMBIA VISA TDC Vol Orig: - 451307336 20040901 20060531 - 20081231 [------------][-----------N]
+Principal
+Normal
++ Cancelada
+Sin [------------][------------]
+SAN LUIS (TOLIMA) /
+BCO AGRARIO TDC MoraPlástico: - 486647139 20170525 20220731 3,000 20270331 [------------][-----------N]
+Principal
+No Renovado
+Orig: Normal
++ Cancelada
+Sin [NNNNNNNNNNNN][NNNNNNNNNNNN]
+SAN LUIS (TOLIMA) /
+BCO AGRARIO TDC MoraPlástico: - 486647334 20170515 20220731 3,000 20220531 [-NNNNNNNNNNN][-NNNNNNNNNNN]
+Principal
+No Renovado
+Orig: Normal
++ Cancelada
+[NNN21NNNNNNN][NNNNNNNNNNNN]
+VolPlástico: MURILLO TORO /
+BCO DAVIVIENDA TDC - 003206093 20121206 20250814 18,000 20250228 [NNNNNNNNNNNN][NNNNNNNNNNNN]
+Entregado Principal
+Orig: Normal
+Sector Real
+Tipo Estado de la Adjetivo- Num Cta 9 Fecha Vlr o cupo Ciudad/ Oficina Desacuerdo con la
+Entidad Informante Calf Fecha Cierre 47 meses
+Cuenta Obligación fecha digitos Apertura inicial Fecha /Deudor inform.
+[NNNNNNNNNNNN][NNNNN-------]
+FUNDACION MUNDO + Pago Vol NO INFORMO /
+CAC - 101051578 20100906 20120331 - 20120908 [------------][-----------N]
+MUJER Orig: Normal Codeudor
+[NNNNNNNNNNNN][NNNNNNNNNNNN]
+FUNDACION MUNDO + Pago Vol NO INFORMO /
+CAC - 121078524 20120321 20140331 - 20140308 [------------][-----------N]
+MUJER Orig: Normal Codeudor
+[------------][------------]
+NATURA ORIG + Pago Vol
+LAB - 014106202 20221101 20221126 0 20221125 AVON / Principal [------------][-----------N]
+:AVON Orig: Normal
+Sector Telcos
+Tipo Estado de la Adjetivo- Num Cta 9 Fecha Vlr o cupo Ciudad/ Oficina Desacuerdo con la
+Entidad Informante Calf Fecha Cierre 47 meses
+Cuenta Obligación fecha digitos Apertura inicial Fecha /Deudor inform.
+[NNN---------][------------]
++ Pago Vol
+CLARO SERV MOV CTC A .49214796 20221123 20230228 - 20230112 Principal [------------][-----------N]
+Orig: Normal
+ANALISIS DE VECTORES 1ZS2855
+Num Cta 9 Tipo Jul Jun May Abr Mar Feb Ene Dic Nov Oct Sep Ago Jul Jun May Abr Mar Feb Ene Dic Nov Oct Sep Ago
+Entidad Estado
+dígitos Cuenta 25 25 25 25 25 25 25 24 24 24 24 24 24 24 24 24 24 24 24 23 23 23 23 23
+Sector Financiero
+BCO AGRARIO 530169735 CAB Pago Vol N
+BCO AGRARIO 530189671 CAB Pago Vol N - - - - - - - - - - - - - - - - - - -
+BCO AGRARIO 800104535 CAB Pago Vol N N N N N N
+BCO DAVIVIENDA LIBRE INVERS. 600269117 CAB Al día N N N N N - N N N N N N N N N N N N - N N N N N
+BANCAMIA MICROCREDITO 723329013 MCR Pago Vol N N N N N N N N N N N N
+BANCO AGRARIO C MICROCREDITO 530181381 MCR Al día N N N N N N N N N N N N N N N N N N N - - - - -
+BANCO AGRARIO CART SOBREGIRO 800000627 SBG Al día N N N N N N N N N N N N N N N N N N N N N N N N
+DELAGRO SAS 2025/08/26 16:01:48 Página 3 de 6
+BANCO AGRARIO CART SOBREGIRO 530001093 SBG Pago Vol N N N N N N N N N N N N N N N N N N N
+Esta M 120 RM
+DAVIVIENDA SOBREGIROS 760009992 SBG 4 4 3 2 1 N N N N N N N 4 3 2 1 N N - - - - - -
+120
+BCO DAVIVIENDA 003206093 TDC Cancelada Vol N N N 2 1 N N N N N N N N N N N N N N N N N N N
+Moras Máximas Sector Financiero 4 4 3 2 1 N N N N N N N 4 3 2 1 N N N N N N N N
+Sector Real
+Esta en mora
+PRECISAGRO S.A.S. SE0710041 AGR 4 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 4 - - - - -
+120
+Moras Máximas Sector Real 4 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 4 - - - - -
+Total Sectores
+Moras Máximas Obligaciones 4 4 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 4 N N N N N
+EVOLUCIÓN DE LA DEUDA null
+Tipo Cuenta Valores Trimestre 2025/09 Trimestre 2025/06 Trimestre 2025/03 Trimestre 2024/12 Trimestre 2024/09
+Sector Financiero
+Num 1 1 2 2 1
+Vlr o Cupo Inicial 50,000 50,000 50,014 50,000 50,000
+Saldo 18,475 18,247 17,591 30,056 28,804
+Cartera bancaria Saldo en Mora 0 0 0 0 0
+Valor Cuota 11,452 11,452 11,452 13,628 13,628
+% Deuda 37.0% 36.5% 35.2% 60.1% 57.6%
+< Calificación - - - - -
+Num 1 1 1 1 1
+Vlr o Cupo Inicial 40,000 40,000 40,000 40,000 40,000
+Saldo 37,647 37,647 37,647 40,000 40,000
+Cartera Microcrédito Saldo en Mora 0 0 0 0 0
+Valor Cuota 4,553 4,426 4,426 8,322 8,322
+% Deuda 94.1% 94.1% 94.1% 100.0% 100.0%
+< Calificación - - - - -
+Num 3 3 3 5 5
+Vlr o Cupo Inicial 0 0 0 10,062 10,000
+Saldo 1,277 1,277 1,277 3,857 4,558
+Cartera Sobregiro Saldo en Mora 133 109 38 0 0
+Valor Cuota 0 0 0 3,857 4,558
+% Deuda - - - 38.3% 45.6%
+< Calificación - - - - -
+Num 1 1 1 1 1
+Vlr o Cupo Inicial 18,000 18,000 18,000 18,000 18,000
+Saldo 0 0 19,396 19,078 18,280
+Tarjeta de crédito Saldo en Mora 0 0 18,862 0 0
+Valor Cuota 0 0 19,396 1,151 298
+% Deuda - - 107.8% 106.0% 101.6%
+< Calificación - - - - -
+Total Saldo Financiero 57,399 57,171 75,911 92,991 91,642
+Sector Real
+Num 1 1 1 1 1
+Vlr o Cupo Inicial 9,377 9,377 9,377 9,377 9,377
+Saldo 9,377 9,377 9,377 9,377 9,377
+Cartera agroindustria Saldo en Mora 9,377 9,377 9,377 9,377 9,377
+Valor Cuota 500 500 500 500 500
+% Deuda 100.0% 100.0% 100.0% 100.0% 100.0%
+< Calificación - - - - -
+Total Saldo Real 9,377 9,377 9,377 9,377 9,377
+Total Saldos Sectores 66,776 66,548 85,288 102,368 101,019
+DEMANDAS JUDICIALES 1ZS2855
+(009) El cliente no tiene procesos judiciales reportados.
+HISTÓRICO DE CONSULTAS 1ZS2855
+Fecha Ult. Consulta Consultante No. de Consultas mes
+03/07/2025 CONSULTAS LOTE 02
+23/05/2025 BANCO DAVIVIENDA S.A 01
+07/03/2025 DELAGRO SAS 01
+*CONSULTAS LOTE: corresponden a consultas realizadas por las Entidades para la supervisión y control del riesgo crediticio.
+INFORMACIÓN DE CHEQUES 1ZS2855
+Trimestre Devueltos (sin fondos) Pagados
+Cantidad Valor Cantidad Valor
+2025/06 0 $0 0 $0
+2025/03 0 $0 0 $0
+2024/12 0 $0 0 $0
+DELAGRO SAS 2025/08/26 16:01:48 Página 4 de 6
+ENDEUDAMIENTO GLOBAL CLASIFICADO 1ZS2855
+TRIMESTRE 2025/03
+Sector Financiero
+Consumo y Tarjeta de
+Comercial Hipotecario Microcrédito Garantías
+Crédito
+Entidad Informante Calf Num Saldo total Moneda Fuente
+Nro Miles $ Nro Miles $ Nro Miles $ Nro Miles $ Tipo Fecha Avalúo Valor
+BANCO AGRARIO - BC 0 - 1 $38,459 0 $0 0 $0 0 $0 1 $38,459 NO IDON 22/01/2024 $30,118 ML S
+DAVIVIENDA - BC 0 - 2 $20,765 2 $20,765 0 $0 0 $0 0 $0 SIN GAR - $0 ML S
+DAVIVIENDA - BC 0 - 1 $17,592 1 $17,592 0 $0 0 $0 0 $0 OTR GAR 15/01/2020 $16,667 ML S
+TOTAL 4 $76,816 3 $38,357 0 $0 0 $0 1 $38,459 - - - - -
+Sector Real
+Consumo y Tarjeta de
+Comercial Hipotecario Microcrédito Garantías
+Crédito
+Entidad Informante Calf Num Saldo total Moneda Fuente
+Nro Miles $ Nro Miles $ Nro Miles $ Nro Miles $ Tipo Fecha Avalúo Valor
+PRECISAGRO S.A.S. - 1 $9,377 0 $0 0 $0 1 $9,377 0 $0 OTR GAR - $0 MC DC
+TOTAL 1 $9,377 0 $0 0 $0 1 $9,377 0 $0 - - - - -
+TRIMESTRE 2024/12
+Sector Financiero
+Consumo y Tarjeta de
+Comercial Hipotecario Microcrédito Garantías
+Crédito
+Entidad Informante Calf Num Saldo total Moneda Fuente
+Nro Miles $ Nro Miles $ Nro Miles $ Nro Miles $ Tipo Fecha Avalúo Valor
+BANCO AGRARIO - BC 0 - 2 $3,857 0 $0 0 $0 2 $3,857 0 $0 SIN GAR - $0 ML S
+BANCO AGRARIO - BC 0 - 1 $45,603 0 $0 0 $0 0 $0 1 $45,603 NO IDON 22/01/2024 $32,000 ML S
+DAVIVIENDA - BC 0 - 1 $19,152 1 $19,152 0 $0 0 $0 0 $0 SIN GAR - $0 ML S
+DAVIVIENDA - BC 0 - 1 $30,057 1 $30,057 0 $0 0 $0 0 $0 OTR GAR 15/01/2020 $25,000 ML S
+TOTAL 5 $98,669 2 $49,209 0 $0 2 $3,857 1 $45,603 - - - - -
+Sector Real
+Consumo y Tarjeta de
+Comercial Hipotecario Microcrédito Garantías
+Crédito
+Entidad Informante Calf Num Saldo total Moneda Fuente
+Nro Miles $ Nro Miles $ Nro Miles $ Nro Miles $ Tipo Fecha Avalúo Valor
+PRECISAGRO S.A.S. - 1 $9,377 0 $0 0 $0 1 $9,377 0 $0 OTR GAR - $0 MC DC
+TOTAL 1 $9,377 0 $0 0 $0 1 $9,377 0 $0 - - - - -
+TRIMESTRE 2024/09
+Sector Financiero
+Consumo y Tarjeta de
+Comercial Hipotecario Microcrédito Garantías
+Crédito
+Entidad Informante Calf Num Saldo total Moneda Fuente
+Nro Miles $ Nro Miles $ Nro Miles $ Nro Miles $ Tipo Fecha Avalúo Valor
+BANCO AGRARIO - BC 0 - 1 $4,558 0 $0 0 $0 1 $4,558 0 $0 SIN GAR - $0 ML S
+BANCO AGRARIO - BC 0 - 1 $44,036 0 $0 0 $0 0 $0 1 $44,036 NO IDON 22/01/2024 $32,000 ML S
+DAVIVIENDA - BC 0 - 2 $47,102 2 $47,102 0 $0 0 $0 0 $0 OTR GAR 15/01/2020 $43,000 ML S
+TOTAL 4 $95,696 2 $47,102 0 $0 1 $4,558 1 $44,036 - - - - -
+Sector Real
+Consumo y Tarjeta de
+Comercial Hipotecario Microcrédito Garantías
+Crédito
+Entidad Informante Calf Num Saldo total Moneda Fuente
+Nro Miles $ Nro Miles $ Nro Miles $ Nro Miles $ Tipo Fecha Avalúo Valor
+PRECISAGRO S.A.S. - 1 $9,377 0 $0 0 $0 1 $9,377 0 $0 OTR GAR - $0 MC DC
+TOTAL 1 $9,377 0 $0 0 $0 1 $9,377 0 $0 - - - - -
+RESUMEN ENDEUDAMIENTO GLOBAL 1ZS2855
+Comercial Hipotecario Consumo y Tarjeta de Crédito Microcrédito
+Fecha
+Sector % Participación
+Corte
+Nro Miles $ Nro Miles $ Nro Miles $ Nro Miles $
+Financiero 3 $38,357 0 $0 0 $0 1 $38,459 89.1%
+Cooperativo 0 $0 0 $0 0 $0 0 $0 -
+2025/03 Real 0 $0 0 $0 1 $9,377 0 $0 10.9%
+Telcos 0 $0 0 $0 0 $0 0 $0 -
+Total 3 $38,357 0 $0 1 $9,377 1 $38,459,000 100%
+Financiero 2 $49,209 0 $0 2 $3,857 1 $45,603 91.3%
+Cooperativo 0 $0 0 $0 0 $0 0 $0 -
+2024/12 Real 0 $0 0 $0 1 $9,377 0 $0 8.7%
+Telcos 0 $0 0 $0 0 $0 0 $0 -
+Total 2 $49,209 0 $0 3 $13,234 1 $45,603,000 100%
+Financiero 2 $47,102 0 $0 1 $4,558 1 $44,036 91.1%
+Cooperativo 0 $0 0 $0 0 $0 0 $0 -
+2024/09 Real 0 $0 0 $0 1 $9,377 0 $0 8.9%
+Telcos 0 $0 0 $0 0 $0 0 $0 -
+Total 2 $47,102 0 $0 2 $13,935 1 $44,036,000 100%
+DELAGRO SAS 2025/08/26 16:01:48 Página 5 de 6
+RECONOCER+ 1ZS2855
+# Dirección Estrato Tipo Zona Ciudad Departamento Reportado Desde Ultimo Reporte # de Reportes # de Entidades Fuente
+1 KR 4 A 5 76 - RES - CRR - SAN LUIS - NOV - 2009 JUL - 2025 33 4 SUS
+2 KR 5 5 76 CENTROTOLIMA - RES - CRR - SAN LUIS - ABR - 2016 NOV - 2022 4 2 SUS
+3 CL 4 5 76 CE - RES - LAB - CRR - SAN LUIS - DIC - 2012 JUN - 2025 14 1 SUS
+4 CONJ SAN ISIDRO TO 9 APTO 401 - RES URB IBAGUE TOLIMA MAR - 2019 JUN - 2025 1 1 SUS
+5 CL 2 4 51 BR LUIS SAN - RES - LAB RUR SAN LUIS ANTIOQUIA NOV - 2009 MAR - 2024 4 1 SUS
+6 CL 5 3 132 BR CENTR - RES - CRR - SAN LUIS - MAR - 2009 NOV - 2009 2 1 SUS
+Vector de Direcciones
+Tipo Ago 23 Sep 23 Oct 23 Nov 23 Dic 23 Ene 24 Feb 24 Mar 24 Abr 24 May 24 Jun 24 Jul 24 Ago 24 Sep 24 Oct 24 Nov 24 Dic 24 Ene 25 Feb 25 Mar 25 Abr 25 May 25 Jun 25 Jul 25
+RES
+LAB
+CRR
+# Teléfono Fijo Tipo Ciudad Departamento Reportado Desde Ultimo Reporte # de Reportes # de Entidades Fuente
+1 3757297 RES SAN LUIS - SEP - 2012 JUL - 2022 5 1 SUS
+2 3123757 RES SAN LUIS ANTIOQUIA NOV - 2009 FEB - 2023 2 1 SUS
+3 2252286 LAB ALPUJARRA TOLIMA NOV - 2009 FEB - 2023 2 1 SUS
+4 4036253 RES SAN LUIS - MAR - 2009 NOV - 2009 1 1 SUS
+# Celular Reportado Por Reportado Desde Último Reporte # de Reportes # de Entidades Fuente
+1 3123757297 - DIC - 2012 OCT - 2023 16 4 SUS
+2 3123759297 - MAY - 2022 JUN - 2025 2 1 SUS
+# Correo Electrónico Reportado Por Reportado Desde Último Reporte # de Reportes Fuente
+1 padanamo1506@gmail.com - DIC - 2012 JUN - 2024 6 SUS
+2 dianazapata1303@hotmail.com - JUN - 2022 FEB - 2023 1 SUS
+3 ger836@bancodebogota.com - JUL - 2019 MAY - 2025 1 SUS
+4 karito9000@hotmail.com - NOV - 2009 MAR - 2024 1 SUS
+NOTAS
+Espacio disponible para notas relacionadas con la Historia de Crédito y su reglamentación .
+Fin-consulta Tipo 1. La consulta fue efectiva.
+DELAGRO SAS 2025/08/26 16:01:48 Página 6 de 6
+Consultado por: 38360904 2025/08/26 4.01 PM
+DELAGRO SAS - 800153557
+INFORMACIÓN BÁSICA 1ZS2855
+Tipo Documento C.C. Número Documento 14106202 Estado Documento Vigente Lugar Expedición SAN LUIS Fecha Expedición 22/06/1995
+Nombre MONTAÑA MIRANDA ELKIN Rango Edad 46-55 Género Masculino Tiene RUT? - Antiguedad Ubicacion 189 Meses -
+ACIERTA + QUANTO
+38360904
+2025/08/26 16:01:48
+Página 1 de 1

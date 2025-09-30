@@ -1,0 +1,12 @@
+{
+  "total_samples": 1,
+  "quality_history": [
+    {
+      "sample_id": "2ce692e96e50",
+      "success_rate": 90.9090909090909,
+      "filled_fields": 10,
+      "total_fields": 11
+    }
+  ],
+  "last_updated": "2025-09-30T14:32:37.570695"
+}
