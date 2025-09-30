@@ -33,7 +33,7 @@ desktop.ini
 
 # Archivos de distribución de Python
 *.egg-info/
-dist/
+# dist/ - Comentado para incluir el ejecutable final
 
 # Archivos de configuración local
 .env
